@@ -9,8 +9,8 @@
 date_default_timezone_set("ASIA/Jakarta");
 
 // Token & API Telegram
-$akses_token = '';
-$usernamebot='';
+$akses_token = '8080012090:AAGiQxcUMIHxIzFNdYENWGT6UTvHRgLIYSo';
+$usernamebot='8080012090';
 $api = 'https://api.telegram.org/bot' . $akses_token;
 
 /**
